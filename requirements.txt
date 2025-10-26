@@ -6,3 +6,4 @@ soundfile
 SpeechRecognition
 joblib
 gunicorn
+sounddevice
