@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-learn
+soundfile
+SpeechRecognition
+joblib
